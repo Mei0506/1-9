@@ -4,12 +4,12 @@
   box-sizing: border-box;
 }
 
-.fab {
-  font-size: 32px;
+header {
+  height: 50px;
+  background-color: #ff9a4b;
 }
 
-.position {
-  position: absolute;
-  top: 100px;
-  right: 40px;
+footer {
+  height: 50px;
+  background-color: #aaaaaa;
 }
